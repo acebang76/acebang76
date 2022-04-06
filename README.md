@@ -3,6 +3,6 @@
 
 ### [딥러닝실제](https://github.com/acebang76/Deep-learning-practice) (7)
 
-어프런티스프로젝트 (2)
+### [어프런티스프로젝트](https://github.com/acebang76/apprentice_project) (2)
 
 지능형IoT네트워크 (1)

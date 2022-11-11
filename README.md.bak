@@ -1,9 +1,9 @@
-# AI-Ex-30 포트폴리오 (28)
+# AI-Ex-30 포트폴리오 (29)
 ### [산업인공지능개론](https://github.com/acebang76/Introduction-to-Industrial-AI) (3)
 
 ### [딥러닝실제](https://github.com/acebang76/Deep-learning-practice) (7)
 
-### [어프런티스프로젝트](https://github.com/acebang76/apprentice_project) (2)
+### [어프런티스프로젝트](https://github.com/acebang76/apprentice_project) (3)
 
 ### [지능형IoT네트워크](https://github.com/acebang76/intelligent-IoT-network) (1)
 
